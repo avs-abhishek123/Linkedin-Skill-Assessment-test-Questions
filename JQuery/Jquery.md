@@ -300,4 +300,5 @@ Explorer 7
 - `$('button').click(function() {
         $('input[type=select]').click();
 });`
-<img src="https://github.com/avs-abhishek123/Linkedin-Skill-Assessment-test-Questions/blob/master/JQuery/JQueryImages/15.png" width="90%" height="50%"> <br><br>
+<br><br><br>
+<img src="https://github.com/avs-abhishek123/Linkedin-Skill-Assessment-test-Questions/blob/master/JQuery/JQueryImages/15.png" width="80%" height="40%"> <br><br>
